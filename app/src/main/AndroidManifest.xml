@@ -21,9 +21,10 @@
             android:name=".MapActivity"
             android:exported="false" />
 
+        <!-- API key placeholder: replace with your own key locally -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA5-C_OwF4PSz1y4XcEBcTujXdtde8kUGU" />
+            android:value="YOUR_GOOGLE_API_KEY_HERE" />
 
         <activity
             android:name=".ChildActivity"
