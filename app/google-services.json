@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "714220546272",
+    "firebase_url": "https://gpstrackingproject-bb2ff-default-rtdb.firebaseio.com",
+    "project_id": "gpstrackingproject-bb2ff",
+    "storage_bucket": "gpstrackingproject-bb2ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714220546272:android:bb56658a1c1b4603134885",
+        "android_client_info": {
+          "package_name": "com.ilanhit.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8v9UK6aWkvwf12sHu_mT3wHNPGhSgfl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

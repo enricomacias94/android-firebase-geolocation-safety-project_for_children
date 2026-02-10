@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Sky blue background -->
+    <item>
+        <color android:color="#FAFAFA" />
+    </item>
+
+    <!-- Dog image centered in fixed size box -->
+    <item
+        android:width="200dp"
+        android:height="200dp"
+        android:gravity="center">
+
+        <bitmap
+            android:src="@drawable/guard_dog_background"
+            android:tileMode="disabled" />
+    </item>
+
+</layer-list>
